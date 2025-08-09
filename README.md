@@ -1,6 +1,6 @@
 # 🎮 Game Shop
 
-Proyecto responsive desarrollado en **Digital House** como parte de la formación en **Certified Tech Developer**.  
+Proyecto responsive desarrollado en **Digital House** como parte de la formación en **Certified Tech Developer**, en el cual fui becado.  
 Consiste en una tienda online frontend dedicada a videojuegos y accesorios, con un diseño moderno y adaptado para desktop, tablet y dispositivos móviles.
 
 ---
